@@ -7,6 +7,8 @@ Date: 2012-04-19
 
 xhEditor
 -------
+[![xheditor](/images/xheditor.png)]
+
 xhEditor是一个基于jQuery开发的简单迷你并且高效的在线可视化HTML编辑器，基于网络访问并且兼容IE 6.0+,Firefox 3.0+,Opera 9.6+,Chrome 1.0+,Safari 3.22+。
 
 xhEditor完全基于Javascript开发，您可以应用在任何的服务端语言环境下，例如：PHP、ASP、ASP.NET、JAVA等。
@@ -15,9 +17,18 @@ xhEditor可以在您的CMS、博客、论坛、商城等互联网平台上完美
 
 自2009年4月首个版本发布以来，凭借我们人性化的用户体验和不断持续完善的态度，越来越多的网站选择了使用xhEditor。
 
-官网：[http://xheditor.com/](http://xheditor.com/)
+Official：[http://xheditor.com/](http://xheditor.com/)
 
-代码：[https://github.com/yaniswang/xheditor](https://github.com/yaniswang/xheditor)
+Source Code：[https://github.com/yaniswang/xheditor](https://github.com/yaniswang/xheditor)
 
 Markdown Reader
 -------
+
+Markdown Reader is a extention for chrome, used for reading markdown file.
+
+Features:
+
+* Reading markdown file
+* Auto reload local file when file is changed
+* Highlight the code area
+* Show outline beside the content
