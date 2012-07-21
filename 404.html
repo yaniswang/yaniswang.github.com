@@ -1,6 +1,15 @@
 ---
-layout: 404
+layout: page
 title: "404 page not found"
 ---
 
-Sorry this page does not exist =(
+<p>Sorry this page does not exist =(</p>
+<p>You can try this below:</p>
+
+<ul class="posts">
+  {% for post in site.posts limit: 15 %}
+    <li><span>{{ post.date | date_to_string }}</span>: <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+    <!-- </br> <em>{{ post.excerpt }} </em> -->
+	</li>
+  {% endfor %}
+</ul>
