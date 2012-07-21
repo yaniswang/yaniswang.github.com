@@ -17,7 +17,7 @@ xhEditor可以在您的CMS、博客、论坛、商城等互联网平台上完美
 
 官网：[http://xheditor.com/](http://xheditor.com/)
 
-Code：[https://github.com/yaniswang/xheditor](https://github.com/yaniswang/xheditor)
+代码：[https://github.com/yaniswang/xheditor](https://github.com/yaniswang/xheditor)
 
 Markdown Reader
 -------
