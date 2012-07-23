@@ -83,7 +83,7 @@ sup { line-height: 1ex; }
 .Project img{
 	padding:7px;
 	background:#fff;
-	filter: progid:DXImageTransform.Microsoft.Shadow(color=‘#b3b3b3, Direction=135, Strength=3);/*for ie6,7,8*/
+	filter: progid:DXImageTransform.Microsoft.Shadow(color='#DADADA', Direction=135, Strength=3);
     -webkit-box-shadow:0 1px 3px #b3b3b3;
     -moz-box-shadow:0 1px 3px #b3b3b3;
     box-shadow:0 1px 3px #b3b3b3;
