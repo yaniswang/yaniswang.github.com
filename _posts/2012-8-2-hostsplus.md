@@ -54,4 +54,6 @@ tags : [adobe, air, js, hosts]
 
 下载：[hostsplus.v0.9.2.exe](/down/hostsplus.v0.9.2.exe)
 
+源码：[https://github.com/yaniswang/hostsPlus](https://github.com/yaniswang/hostsPlus)
+
 注：目前暂时只支持Windows平台，今后会推出MAC等平台版本，敬请期待。
