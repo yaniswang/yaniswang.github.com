@@ -32,6 +32,7 @@ Source Code：[https://github.com/yaniswang/xheditor](https://github.com/yaniswa
 
 hostsPlus
 -------
+![hostsPlus](/images/hostsplus.png)
 
 hostsPlus是一款hosts增强编辑小工具，利用这款工具可以实现本地开发环境的高效切换。
 
