@@ -21,7 +21,7 @@ body,div,dl,dt,dd,ul,h1,h2,h3,h4,h5,h6,pre,form,fieldset,p,blockquote,th,td,abbr
 /* @end */
 
 body {
-	font-family: 'Quattrocento Sans', sans-serif;
+	font: 13.34px sans-serif,helvetica,arial,freesans,clean;
 	background-color: #4A4A4A;
 	background-position: center -18em;
 	background-repeat: repeat-x; 
@@ -30,8 +30,7 @@ body {
 /* Hack via Joel Spolsky to make image rescaling nicer in IE */
 img { -ms-interpolation-mode:bicubic; }
 
-/* IE6 ignores this and uses default size of 16pt */
-html>body { font-size:16px; }
+
 p { margin: 0.8em 0 1.2em 0; text-align: left; }
 
 a { text-decoration: underline; color: black}
@@ -46,9 +45,6 @@ h1,h2,h3,h4 {
 	font-family: 'Averia Sans Libre', sans-serif;
 	font-weight: bold; 
 }
-h1 {font-size: 2.4em; }
-h2 {font-size: 1.6em; }
-h3 {font-size: 1.2em; }
 
 hr { 
 	border-top: 1px solid silver;
@@ -60,7 +56,7 @@ hr {
 sup { line-height: 1ex; }
 
 #site {
-	max-width: 50em;
+	max-width: 60em;
 	margin: 1.5em auto 3em auto;
 	line-height:1.5em;
 }
@@ -221,9 +217,9 @@ ul.compact li a {
 	font-family: 'Averia Sans Libre', sans-serif;
 	font-weight: bold; 
 	position: absolute;
-	top: 20pt;
+	top: 12pt;
 	right: 0;
-	font-size: 90%;
+	font-size: 12px;
 	line-height: 1.0em;
 	display: block;
 	margin: 0;

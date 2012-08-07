@@ -43,7 +43,8 @@ hostsPlus是一款hosts增强编辑小工具，利用这款工具可以实现本
 * 重定向到主机名或域名
 * DNS切换
 * 前端小工具集
-* 主题切换
+* 主题支持
+* 跨平台：Windows, Linux, Mac
 
 Source Code：[https://github.com/yaniswang/hostsPlus](https://github.com/yaniswang/hostsPlus)
 
