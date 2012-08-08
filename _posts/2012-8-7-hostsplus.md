@@ -7,7 +7,7 @@ tags : [adobe, air, js, hosts, Mac, Linux]
 
 ![hostsPlus](/images/hostsplus.png)
 
-# 软件开发由来
+## 软件开发由来
 
 为什么会开发这么一款hosts编辑软件？
 
@@ -25,7 +25,7 @@ tags : [adobe, air, js, hosts, Mac, Linux]
 下面介绍一下这款软件能够做哪些事。
 
 
-# 主要特点
+## 主要特点
 
 * hosts方案管理
 * hosts单文件分组管理
@@ -35,7 +35,7 @@ tags : [adobe, air, js, hosts, Mac, Linux]
 * 主题切换
 * 跨平台：Windows, Linux, Mac
 
-# 关于分组
+## 关于分组
 
 这里简单介绍下hosts分组的概念。
 
@@ -54,7 +54,7 @@ tags : [adobe, air, js, hosts, Mac, Linux]
 详细使用指南，可以前往这里查阅：[https://github.com/yaniswang/hostsPlus/wiki/manual](https://github.com/yaniswang/hostsPlus/wiki/manual)
 
 
-##Download - 下载
+## Download - 下载
 
 版本号：v0.9.3
 
