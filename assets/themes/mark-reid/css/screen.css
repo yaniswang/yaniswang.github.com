@@ -539,3 +539,10 @@ code {
 	-moz-border-radius: 2px;
 	border-radius: 2px;
 }
+
+h2{
+	margin-top: 1.5em;
+	border-bottom: 4px solid #E0E0E0;
+	padding-bottom: .5em;
+}
+h3{margin-top:1em;}

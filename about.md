@@ -5,7 +5,7 @@ Date: 2012-04-19
 ---
 {% include JB/setup %}
 
-My english name is Yanis Wang, as chinese name 王一(WangYi), i'm a web-developer from china.
+My name is Yanis Wang, as chinese name 王一(WangYi), i'm a web-developer from china.
 
 I'm now working at [Alibaba.com](http://www.alibaba.com/).
 
