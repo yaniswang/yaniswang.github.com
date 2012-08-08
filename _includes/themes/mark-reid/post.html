@@ -1,9 +1,7 @@
 <div id="page">
-	
 
-  <span class="date">{{ page.date | date: "%Y-%m-%d" }}</span>
-	
-  <h1 class="emphnext">{{ page.title }}</h1>
+  <h1 class="emphnext">{{ page.title }} <span class="date">{{ page.date | date: "%Y-%m-%d" }}</span></h1>
+  
   <ul class="tag_box inline">
   {% assign tags_list = page.tags %}
   {% include JB/tags_list %}

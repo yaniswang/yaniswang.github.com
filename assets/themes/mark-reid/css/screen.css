@@ -65,7 +65,7 @@ sup { line-height: 1ex; }
 	/*background: #E6E5E6;*/
 	background: #f9f9f9;
 /*	background-image: url(grid.png); */
-	padding: 3em 3em 1.5em 3em;
+	padding: 2.5em;
 	border: 1px solid #ccc;
 }
 
@@ -308,9 +308,8 @@ p.excerpt { margin: 0; }
 .excerpt { color: black; }
 
 .date { 
-	font-size: 110%;
+	font-size: 12px;
 	line-height: 1.2em;
-	display: block;
 	font-family: 'Quattrocento Sans', sans-serif;
     font-weight: normal;	
 	font-variant: small-caps; 		
