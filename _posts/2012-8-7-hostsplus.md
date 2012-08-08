@@ -58,13 +58,13 @@ tags : [adobe, air, js, hosts, Mac, Linux]
 
 版本号：v0.9.3
 
-**Windows：**[hostsplus.v0.9.3.exe](/down/hostsplus.v0.9.3.exe)
+**Windows：**[windows.v0.9.3.exe](http://hostsplus.googlecode.com/files/windows.v0.9.3.exe)
 
-**Linux i386：**[linux.v0.9.3_i386.zip](/down/linux.v0.9.3_i386.zip)
+**Linux i386：**[linux.v0.9.3_i386.zip](http://hostsplus.googlecode.com/files/linux.v0.9.3_i386.zip)
 
-**Linux a64：**[linux.v0.9.3_a64.zip](/down/linux.v0.9.3_a64.zip) (64位版)
+**Linux a64：**[linux.v0.9.3_a64.zip](http://hostsplus.googlecode.com/files/linux.v0.9.3_a64.zip) (64位版)
 
-**Mac：**[mac.v0.9.3.zip](/down/mac.v0.9.3.zip)
+**Mac：**[mac.v0.9.3.zip](http://hostsplus.googlecode.com/files/mac.v0.9.3.zip)
 
 **源码：**[https://github.com/yaniswang/hostsPlus](https://github.com/yaniswang/hostsPlus)
 
