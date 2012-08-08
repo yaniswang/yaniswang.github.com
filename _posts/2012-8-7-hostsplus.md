@@ -1,6 +1,6 @@
 ---
 layout: post
-category : lessons
+category : frontend
 title : hostsPlus v0.9.3发布 - 兼容Windows&Linux&Mac
 tags : [adobe, air, js, hosts, Mac, Linux]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-category : lessons
+category : other
 title : Hello World
 tags : [hello]
 ---
