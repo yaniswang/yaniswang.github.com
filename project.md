@@ -50,10 +50,11 @@ Source Code：[https://github.com/yaniswang/hostsPlus](https://github.com/yanisw
 
 Project Site: [http://yaniswang.com/hostsPlus/](http://yaniswang.com/hostsPlus/)
 
-Markdown Reader
+markdownReader
 -------
+![markdownReader](/images/markdownreader.png)
 
-Markdown Reader is a extention for chrome, used for reading markdown file.
+markdownReader is a extention for chrome, used for reading markdown file.
 
 Features:
 
@@ -65,3 +66,27 @@ Features:
 Source Code：[https://github.com/yaniswang/markdownReader](https://github.com/yaniswang/markdownReader)
 
 Project Site: [http://yaniswang.com/markdownReader/](http://yaniswang.com/markdownReader/)
+
+dHosts
+-------
+![dHosts](/images/dhosts.png)
+
+dHosts的全称为desktopHosts，意为桌面多用户hosts。
+
+是一款基于VC和Detours开发的互联网开发辅助软件，以实现Windows Server远程多用户之间相互完全隔离的hosts绑定。
+
+主要功能：
+-------
+
+1. 实现远程桌面登录的多用户之间完全隔离的hosts文件，可部署为大量用户并发使用的公用多浏览器测试服务器。
+2. 可将域名或者主机名重定向到另一个域名或主机名，可解决某些公司动态IP的指向问题。
+
+应用场景：
+================
+
+1. 作为互联网公司前端开发时公用的多浏览器测试环境，实现用户之间完全隔离的hosts环境，从此再也不需要开发者安装虚拟机才能测试。
+2. 部署为测试部门UI自动化的执行机，可在一台机器上同时并发运行无数个不同hosts绑定的应用环境。
+
+Source Code：[https://github.com/yaniswang/dHosts](https://github.com/yaniswang/dHosts)
+
+Project Site: [http://yaniswang.com/dHosts/](http://yaniswang.com/dHosts/)
