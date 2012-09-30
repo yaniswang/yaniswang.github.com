@@ -26,9 +26,9 @@ xhEditor可以在您的CMS、博客、论坛、商城等互联网平台上完美
 * Word自动清理：实现Word代码自动检测并清理，提供高效完美的Word代码过滤方案，生成代码最优化精简，但是却不丢失任何细节效果。
 * UBB可视化编辑：提供完美的UBB可视化编辑解决方案，在您获得安全高效代码存储的同时，又能享受可视化编辑的便捷。
 
-Official：[http://xheditor.com/](http://xheditor.com/)
+Source Code：[https://github.com/yaniswang/xhEditor](https://github.com/yaniswang/xhEditor)
 
-Source Code：[https://github.com/yaniswang/xheditor](https://github.com/yaniswang/xheditor)
+Project Site：[http://xheditor.com/](http://xheditor.com/)
 
 hostsPlus
 -------
@@ -48,6 +48,8 @@ hostsPlus是一款hosts增强编辑小工具，利用这款工具可以实现本
 
 Source Code：[https://github.com/yaniswang/hostsPlus](https://github.com/yaniswang/hostsPlus)
 
+Project Site: [http://yaniswang.com/hostsPlus/](http://yaniswang.com/hostsPlus/)
+
 Markdown Reader
 -------
 
@@ -59,3 +61,7 @@ Features:
 * Auto reload local file when file is changed
 * Highlight the code area
 * Show outline beside the content
+
+Source Code：[https://github.com/yaniswang/markdownReader](https://github.com/yaniswang/markdownReader)
+
+Project Site: [http://yaniswang.com/markdownReader/](http://yaniswang.com/markdownReader/)
