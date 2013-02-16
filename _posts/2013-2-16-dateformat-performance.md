@@ -118,7 +118,7 @@ tags : [date, format, performance]
      * @return String
      * @author yanis.wang@gmail.com
      */
-    function DateFormat(date, format) {
+    function dateFormat(date, format) {
         if(format === undefined){
             format = date;
             date = new Date();
