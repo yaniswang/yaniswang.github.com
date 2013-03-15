@@ -540,3 +540,8 @@ h2{
 	padding-bottom: .5em;
 }
 h3{margin-top:1em;}
+
+#content h1{font-size:170%;border-bottom:4px solid #aaa;padding-bottom:.5em;margin-top:1.5em;}
+#content h1:first-child{margin-top:0;padding-top:.25em;border-top:none;}
+#content h2{font-size:150%;margin-top:1.5em;border-bottom:4px solid #e0e0e0;padding-bottom:.5em;}
+#content h3{margin-top:1em;}
