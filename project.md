@@ -30,6 +30,23 @@ Source Code：[https://github.com/yaniswang/xhEditor](https://github.com/yaniswa
 
 Project Site：[http://xheditor.com/](http://xheditor.com/)
 
+
+HTMLHint
+-------
+![HTMLHint](/images/htmlhint.png)
+
+HTMLHint是一款基于JS开发的静态扫描组件，支持所有浏览器和Nodejs平台，可以集成到IDE环境或编译系统中。
+
+### 主要特色：
+
+* 跨平台支持，支持所有浏览器及Nodejs
+* 全单元测试覆盖，travis自动持续集成，质量有保障
+* 插件体系灵活，规则添加方便
+
+Source Code：[https://github.com/yaniswang/HTMLHint](https://github.com/yaniswang/HTMLHint)
+
+Project Site: [http://htmlhint.com/](http://htmlhint.com/)
+
 hostsPlus
 -------
 ![hostsPlus](/images/hostsplus.png)
