@@ -84,6 +84,25 @@ Source Code：[https://github.com/yaniswang/markdownReader](https://github.com/y
 
 Project Site: [http://yaniswang.com/markdownReader/](http://yaniswang.com/markdownReader/)
 
+Install: [https://chrome.google.com/webstore/detail/markdown-reader/gpoigdifkoadgajcincpilkjmejcaanc](https://chrome.google.com/webstore/detail/markdown-reader/gpoigdifkoadgajcincpilkjmejcaanc)
+
+smartF5
+-------
+![smartF5](/images/smartf5.png)
+
+Reload your page resources smartly: html, js, css
+
+Features:
+==============
+
+1. Watch page resources: html, js, css, reload smartly.
+2. Support local file: file://
+3. Support multi system: Windows, Mac, Linux(64)
+
+Source Code：[https://github.com/yaniswang/smartF5](https://github.com/yaniswang/smartF5)
+
+Install: [https://chrome.google.com/webstore/detail/smartf5/pgglpnfdiigfapjinhfgnbckibpdbbeo](https://chrome.google.com/webstore/detail/smartf5/pgglpnfdiigfapjinhfgnbckibpdbbeo)
+
 dHosts
 -------
 ![dHosts](/images/dhosts.png)
